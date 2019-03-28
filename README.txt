@@ -1,0 +1,1 @@
+Kod;Kod 5 ögrencinin adýný ve 3 notunu alýp daha sonra adlarýný ve ögrenrencilerin not ortalamasýný ekrana verir.
